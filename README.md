@@ -53,7 +53,7 @@ Este repositório apresenta os conhecimentos e práticas desenvolvidos durante o
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/maymicabral/GPT-e-Python.git
    cd nome-do-repositorio
    ```
 2. Instale as dependências:
